@@ -2,4 +2,5 @@ git -Yalaury-3.txt
 
 Edición de Archivo - Juanma
 
-Edicion - generacion de Conflictos refactor
+Edicion de Yalaury- generacion de Conflictos refactor
+
