@@ -1,3 +1,5 @@
 git -Yalaury-3.txt
 
 Edición de Archivo - Juanma
+
+Edicion de Archivo Yalaury, generacion de Conflictos
